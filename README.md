@@ -1,4 +1,8 @@
 # Find the maximum of a list of numbers
+NAME:RAMYA.P
+REG NO:212223240137
+DEPARTMENT:AIML
+
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
